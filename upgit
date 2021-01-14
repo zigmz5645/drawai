@@ -1,0 +1,24 @@
+git init
+
+ git add 'datafinalz2.html'
+
+ git config --global user.email "scai5357b4554@protonmail.com"
+  git config --global user.name "zigmz5645"
+
+
+
+
+git commit -am "My first Filed"
+
+git remote add origin https://github.com/zigmz5645/drawai.git
+
+ 
+git config --global credential.helper cache
+  git pull origin master
+
+  git push origin master
+
+
+
+echo "https://htmlpreview.github.io/?https://github.com/zigmz5645/drawai/blob/master/datafinal2.html"
+

@@ -1,0 +1,1196 @@
+#frame1 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.125s;
+}
+#frame2 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.1875s;
+}
+#frame3 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.25s;
+}
+#frame4 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.3125s;
+}
+#frame5 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.375s;
+}
+#frame6 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.4375s;
+}
+#frame7 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.5s;
+}
+#frame8 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.5625s;
+}
+#frame9 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.625s;
+}
+#frame10 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.6875s;
+}
+#frame11 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.75s;
+}
+#frame12 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.8125s;
+}
+#frame13 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.875s;
+}
+#frame14 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 0.9375s;
+}
+#frame15 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1s;
+}
+#frame16 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.0625s;
+}
+#frame17 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.125s;
+}
+#frame18 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.1875s;
+}
+#frame19 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.25s;
+}
+#frame20 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.3125s;
+}
+#frame21 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.375s;
+}
+#frame22 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.4375s;
+}
+#frame23 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.5s;
+}
+#frame24 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.5625s;
+}
+#frame25 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.625s;
+}
+#frame26 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.6875s;
+}
+#frame27 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.75s;
+}
+#frame28 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.8125s;
+}
+#frame29 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.875s;
+}
+#frame30 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 1.9375s;
+}
+#frame31 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2s;
+}
+#frame32 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.0625s;
+}
+#frame33 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.125s;
+}
+#frame34 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.1875s;
+}
+#frame35 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.25s;
+}
+#frame36 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.3125s;
+}
+#frame37 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.375s;
+}
+#frame38 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.4375s;
+}
+#frame39 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.5s;
+}
+#frame40 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.5625s;
+}
+#frame41 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.625s;
+}
+#frame42 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.6875s;
+}
+#frame43 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.75s;
+}
+#frame44 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.8125s;
+}
+#frame45 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.875s;
+}
+#frame46 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 2.9375s;
+}
+#frame47 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3s;
+}
+#frame48 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.0625s;
+}
+#frame49 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.125s;
+}
+#frame50 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.1875s;
+}
+#frame51 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.25s;
+}
+#frame52 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.3125s;
+}
+#frame53 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.375s;
+}
+#frame54 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.4375s;
+}
+#frame55 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.5s;
+}
+#frame56 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.5625s;
+}
+#frame57 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.625s;
+}
+#frame58 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.6875s;
+}
+#frame59 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.75s;
+}
+#frame60 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.8125s;
+}
+#frame61 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.875s;
+}
+#frame62 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 3.9375s;
+}
+#frame63 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4s;
+}
+#frame64 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.0625s;
+}
+#frame65 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.125s;
+}
+#frame66 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.1875s;
+}
+#frame67 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.25s;
+}
+#frame68 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.3125s;
+}
+#frame69 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.375s;
+}
+#frame70 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.4375s;
+}
+#frame71 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.5s;
+}
+#frame72 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.5625s;
+}
+#frame73 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.625s;
+}
+#frame74 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.6875s;
+}
+#frame75 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.75s;
+}
+#frame76 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.8125s;
+}
+#frame77 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.875s;
+}
+#frame78 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 4.9375s;
+}
+#frame79 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5s;
+}
+#frame80 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.0625s;
+}
+#frame81 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.125s;
+}
+#frame82 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.1875s;
+}
+#frame83 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.25s;
+}
+#frame84 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.3125s;
+}
+#frame85 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.375s;
+}
+#frame86 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.4375s;
+}
+#frame87 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.5s;
+}
+#frame88 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.5625s;
+}
+#frame89 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.625s;
+}
+#frame90 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.6875s;
+}
+#frame91 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.75s;
+}
+#frame92 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.8125s;
+}
+#frame93 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.875s;
+}
+#frame94 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 5.9375s;
+}
+#frame95 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6s;
+}
+#frame96 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.0625s;
+}
+#frame97 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.125s;
+}
+#frame98 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.1875s;
+}
+#frame99 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.25s;
+}
+#frame100 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.3125s;
+}
+#frame101 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.375s;
+}
+#frame102 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.4375s;
+}
+#frame103 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.5s;
+}
+#frame104 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.5625s;
+}
+#frame105 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.625s;
+}
+#frame106 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.6875s;
+}
+#frame107 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.75s;
+}
+#frame108 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.8125s;
+}
+#frame109 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.875s;
+}
+#frame110 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 6.9375s;
+}
+#frame111 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7s;
+}
+#frame112 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.0625s;
+}
+#frame113 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.125s;
+}
+#frame114 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.1875s;
+}
+#frame115 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.25s;
+}
+#frame116 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.3125s;
+}
+#frame117 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.375s;
+}
+#frame118 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.4375s;
+}
+#frame119 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.5s;
+}
+#frame120 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.5625s;
+}
+#frame121 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.625s;
+}
+#frame122 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.6875s;
+}
+#frame123 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.75s;
+}
+#frame124 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.8125s;
+}
+#frame125 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.875s;
+}
+#frame126 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 7.9375s;
+}
+#frame127 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8s;
+}
+#frame128 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.0625s;
+}
+#frame129 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.125s;
+}
+#frame130 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.1875s;
+}
+#frame131 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.25s;
+}
+#frame132 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.3125s;
+}
+#frame133 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.375s;
+}
+#frame134 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.4375s;
+}
+#frame135 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.5s;
+}
+#frame136 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.5625s;
+}
+#frame137 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.625s;
+}
+#frame138 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.6875s;
+}
+#frame139 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.75s;
+}
+#frame140 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.8125s;
+}
+#frame141 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.875s;
+}
+#frame142 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 8.9375s;
+}
+#frame143 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9s;
+}
+#frame144 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.0625s;
+}
+#frame145 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.125s;
+}
+#frame146 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.1875s;
+}
+#frame147 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.25s;
+}
+#frame148 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.3125s;
+}
+#frame149 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.375s;
+}
+#frame150 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.4375s;
+}
+#frame151 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.5s;
+}
+#frame152 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.5625s;
+}
+#frame153 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.625s;
+}
+#frame154 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.6875s;
+}
+#frame155 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.75s;
+}
+#frame156 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.8125s;
+}
+#frame157 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.875s;
+}
+#frame158 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 9.9375s;
+}
+#frame159 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10s;
+}
+#frame160 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.0625s;
+}
+#frame161 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.125s;
+}
+#frame162 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.1875s;
+}
+#frame163 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.25s;
+}
+#frame164 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.3125s;
+}
+#frame165 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.375s;
+}
+#frame166 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.4375s;
+}
+#frame167 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.5s;
+}
+#frame168 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.5625s;
+}
+#frame169 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.625s;
+}
+#frame170 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.6875s;
+}
+#frame171 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.75s;
+}
+#frame172 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.8125s;
+}
+#frame173 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.875s;
+}
+#frame174 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 10.9375s;
+}
+#frame175 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11s;
+}
+#frame176 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.0625s;
+}
+#frame177 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.125s;
+}
+#frame178 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.1875s;
+}
+#frame179 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.25s;
+}
+#frame180 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.3125s;
+}
+#frame181 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.375s;
+}
+#frame182 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.4375s;
+}
+#frame183 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.5s;
+}
+#frame184 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.5625s;
+}
+#frame185 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.625s;
+}
+#frame186 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.6875s;
+}
+#frame187 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.75s;
+}
+#frame188 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.8125s;
+}
+#frame189 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.875s;
+}
+#frame190 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 11.9375s;
+}
+#frame191 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12s;
+}
+#frame192 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.0625s;
+}
+#frame193 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.125s;
+}
+#frame194 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.1875s;
+}
+#frame195 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.25s;
+}
+#frame196 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.3125s;
+}
+#frame197 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.375s;
+}
+#frame198 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.4375s;
+}
+#frame199 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.5s;
+}
+#frame200 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.5625s;
+}
+#frame201 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.625s;
+}
+#frame202 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.6875s;
+}
+#frame203 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.75s;
+}
+#frame204 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.8125s;
+}
+#frame205 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.875s;
+}
+#frame206 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 12.9375s;
+}
+#frame207 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13s;
+}
+#frame208 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.0625s;
+}
+#frame209 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.125s;
+}
+#frame210 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.1875s;
+}
+#frame211 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.25s;
+}
+#frame212 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.3125s;
+}
+#frame213 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.375s;
+}
+#frame214 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.4375s;
+}
+#frame215 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.5s;
+}
+#frame216 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.5625s;
+}
+#frame217 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.625s;
+}
+#frame218 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.6875s;
+}
+#frame219 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.75s;
+}
+#frame220 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.8125s;
+}
+#frame221 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.875s;
+}
+#frame222 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 13.9375s;
+}
+#frame223 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14s;
+}
+#frame224 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.0625s;
+}
+#frame225 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.125s;
+}
+#frame226 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.1875s;
+}
+#frame227 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.25s;
+}
+#frame228 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.3125s;
+}
+#frame229 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.375s;
+}
+#frame230 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.4375s;
+}
+#frame231 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.5s;
+}
+#frame232 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.5625s;
+}
+#frame233 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.625s;
+}
+#frame234 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.6875s;
+}
+#frame235 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.75s;
+}
+#frame236 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.8125s;
+}
+#frame237 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.875s;
+}
+#frame238 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 14.9375s;
+}
+#frame239 {
+  visibility: hidden;
+  animation: 1s show infinite;
+  animation-delay: 15s;
+}
+

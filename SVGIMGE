@@ -1,0 +1,117 @@
+#!/bin/bash
+
+curl -L "https://www.ecosia.org/images?q=$1&imageType=transparent#f=true" -o finalz.html
+   
+imh=$(cat finalz.html |grep -oP "href..[^\"]*(png|jpg|jpeg)"	 |grep -v "ecosia"|grep -oP "http[^\"]*(png|jpg|jpeg)"|sed -n "1 p")
+
+curl -L "$imh" -o finh.png
+convert finh.png -flatten -resize x900 448Lucarioz.png
+convert 448Lucarioz.png +dither -posterize 4 448Lucariozz.png
+
+convert 448Lucariozz.png -geometry 16x16 -colors 32 -unique-colors -scale 4000% scheme.png
+
+
+./remap -n 8 -m RGBL 448Lucarioz.png scheme.png 448Lucariozre.png
+
+ python quant.py --image "448Lucariozre.png"    --clusters 16
+
+convert    image2.png  -define "connected-components:area-threshold=45" -define connected-components:mean-color=true -connected-components 16    image3.png
+convert image3.png  colo.png
+
+python convertbmp.py
+
+
+autotrace -output-file zzzzmegzouput3.svg -output-format svg --color-count 64  test1.bmp
+
+ 
+
+cat zzzzmegzouput3.svg|grep -v "#f.*M0" |grep -v "M0.*0z">zzzzmegzouput3y.svg
+
+cat zzzzmegzouput3y.svg > zzzzmegzouput3.svg
+cat zzzzmegzouput3.svg|grep -oP ".*(xml version|svg width).*">zzzzmegzouput3g.svg
+
+cat zzzzmegzouput3.svg|grep -o ".*path.*"|sed  's/none/black/g'|sed  's/fill:......./fill:white/g'>>zzzzmegzouput3g.svg
+
+ cat zzzzmegzouput3.svg|grep -o ".*path.*"|sed  1d>>zzzzmegzouput3g.svg
+cat zzzzmegzouput3.svg|grep -o ".*path.*" |tr '\n' ' '>>zzzzmegzouput3g.svg
+cat zzzzmegzouput3.svg|grep -oP "<.svg>">>zzzzmegzouput3g.svg
+
+
+cat zzzzmegzouput3g.svg|perl -pe 'BEGIN{$A=1;} s/(.*path.*)/"<g id=\"frame".$A++ ."\">".($1)."<\/g>"/ge'>zzzzmegzouput3mega.svg
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+printf '<!DOCTYPE html>\n<html>\n<head>\n<style>\n\nsvg {\n   \n}\n'>datafinal.html
+ 
+ 
+
+python -c 'print "#frame {newlix  visibility: hidden;newlix  animation: 1s show infinite;newlix  animation-delay: delayxs;newlix}newlix"*(4400)'| sed   's/newlix/\n/g'|perl -pe 'BEGIN{$A=1;} s/frame/"frame".$A++/ge'|perl -pe 'BEGIN{$A=2;} s/(delayx)/$A++*0.0625/ge'>>datafinal.html
+
+ 
+
+
+
+python -c 'print "newlix#framex {newlix  visibility: hidden;newlix  animation: 0.0625s show ;newlix  animation-delay: delayxs;newlix  visibility: hidden;newlix}newlix"*(4400)'| sed   's/newlix/\n/g'|perl -pe 'BEGIN{$A=1;} s/framex/"framez".$A++/ge'|perl -pe 'BEGIN{$A=2;} s/(delayx)/$A++*0.0625/ge'>>datafinal.html
+
+ 
+
+
+
+printf '@keyframes show {\n  0%%   { visibility: visible;}\n  12.5%%  { visibility: visible; }\n  12.6%%  { visibility: visible; }\n  100%% { visibility: visible; }\n}\n</style>\n</head>\n<body>\n '>>datafinal.html
+cat zzzzmegzouput3mega.svg|grep -o ".*svg width.*">>datafinal.html
+echo "">>datafinal.html
+cat importx>>datafinal.html
+
+
+cat zzzzmegzouput3mega.svg|grep "path">>datafinal.html
+
+
+printf '\n </svg>\n </body>\n</html>\n'>>datafinal.html
+
+
+cat datafinal.html|sed  's/\(\(.*\)frame\([0-9]*\).*d=..\([0-9\. ]*\).*\)/\1\n\2framez\3"  transform=" translate(\4)"> <use xlink:href="#pie" \/><\/g>/g' >datafinal2.html
+nh=$(cat zzzzmegzouput3mega.svg |grep "path"|wc -l)
+rh=$(echo "scale=2;30/($nh*0.0625)"|bc)
+
+ 
+echo "cat datafinal2.html|perl -pe 's/([0-9\.]*)s;/\$1*$rh.\"s;\"/ge'>datafinalz2.html">exez
+./exez
+
+
+nh=$(cat zzzzmegzouput3mega.svg |grep "path"|wc -l)
+th=$(echo "$nh*1*0.0625 + 3"|bc)
+
+
+
+
+ps auxf | grep -P "(firefox|xvfb|Xvfb)"|awk '{ print "kill -9 " $2 }'>killsoffice
+
+./killsoffice
+
+
+ Xvfb :71   & 
+export DISPLAY=:71
+firefox "file:///home/diegonode/Desktop/svg/datafinalz2.html"  -fullscreen  &
+ 
+/usr/bin/timeout "36s" ffmpeg -nostdin  -y -r 30 -f x11grab -draw_mouse 0 -s 880x640 -i :71+0,80   -c:v libvpx -quality realtime -cpu-used 0 -b:v 384k -qmin 10 -qmax 42 -maxrate 384k -bufsize 1000k -an "/home/diegonode/Desktop/svg/screen.webm"
+
+ ffmpeg -y -i "/home/diegonode/Desktop/svg/screen.webm"  -strict experimental "/home/diegonode/Desktop/svg/screen.mp4"
+
+ 
+
+ps auxf | grep -P "(firefox|xvfb|Xvfb)"|awk '{ print "kill -9 " $2 }'>killsoffice
+
+./killsoffice
+
+
+
