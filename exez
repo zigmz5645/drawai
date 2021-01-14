@@ -1,1 +1,0 @@
-cat datafinal2.html|perl -pe 's/([0-9\.]*)s;/$1*.38."s;"/ge'>datafinalz2.html
